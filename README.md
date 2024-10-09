@@ -1,6 +1,7 @@
 # Timer App
-
 This is a simple timer application built with HTML, CSS, and JavaScript.
+
+![Timer App Demo](https://i.ibb.co/z43DZzD/ezgif-com-video-to-gif-converter.gif)
 
 ## Project Structure
 
